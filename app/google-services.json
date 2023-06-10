@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "743619592733",
+    "project_id": "bisoft-8ce27",
+    "storage_bucket": "bisoft-8ce27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743619592733:android:a9441412cd8ef789d7fcf4",
+        "android_client_info": {
+          "package_name": "bisoft.app.myar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743619592733-97abupe9eh83hapqhftunurjpnafu7pl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb1DHw7MNXhitrquTygZkOIxDWN2JChMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743619592733-97abupe9eh83hapqhftunurjpnafu7pl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743619592733:android:adf114e332231bd3d7fcf4",
+        "android_client_info": {
+          "package_name": "evobi.automations.bisoft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743619592733-97abupe9eh83hapqhftunurjpnafu7pl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb1DHw7MNXhitrquTygZkOIxDWN2JChMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743619592733-97abupe9eh83hapqhftunurjpnafu7pl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743619592733:android:7150b73a4a62d0acd7fcf4",
+        "android_client_info": {
+          "package_name": "k.s.chattingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743619592733-97abupe9eh83hapqhftunurjpnafu7pl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb1DHw7MNXhitrquTygZkOIxDWN2JChMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743619592733-97abupe9eh83hapqhftunurjpnafu7pl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
